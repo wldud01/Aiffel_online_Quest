@@ -1,4 +1,4 @@
-![image](https://github.com/youungg/Aiffel_online_Quest_YJY/assets/149548911/d8c1fe8e-1438-473c-a84d-bef3aa1c1d4a)# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 윤지영
 - 리뷰어 : 이재영
 
